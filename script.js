@@ -1,7 +1,7 @@
 // ==========================================
 // Part 1: Time-based Greeting
 // ==========================================
-let userName = prompt("What is your name?", "Bidhur");
+let userName = prompt("What is your name?", "Bidur");
 let currentHour = new Date().getHours();
 let greeting;
 
